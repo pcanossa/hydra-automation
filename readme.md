@@ -163,7 +163,8 @@ Este projeto é disponibilizado apenas para fins educacionais e de teste autoriz
 ## Suporte
 
 Para suporte técnico ou dúvidas sobre uso ético, consulte:
-- Documentação oficial do Hydra
+- Documentação oficial do [Hydra](https://github.com/vanhauser-thc/thc-hydra)
+- Documentação oficial do [Anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
 - Guias de pentest ético
 - Frameworks como OWASP Testing Guide
 
